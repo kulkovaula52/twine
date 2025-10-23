@@ -3,6 +3,11 @@
 2 добавить картинки персонажа img src= "https://github.com/kulkovaula52/twine/blob/main/kandinsky-download-1761045436596%20(1).png?raw=true"
 3. добавление фона
 tw-story {
-  background-image: url( )
+  background-image: url(' https://github.com/kulkovaula52/twine/blob/main/kandinsky-download-1761044822925.png?raw=true')
     background-size: cover
 }
+4. добавление подложки текста
+<div class="text-box">
+    
+    [[Дальше]]
+</div>
